@@ -6,7 +6,7 @@ As I have been wanting to focus on backend, I have built 7 practical projects, e
 
 | No|       Projects     | Status |            Repos                |                          Description                            |
 |---|:------------------:|:------:|:-------------------------------:|----------------------------------------------------------------:|
-| 1 | combination API    |   ✅   | [here](https://github.com/joan-gerard/combinationAPI_AWS_Serverless)          |   A desc          |
+| 1 | combination API    |   ✅   | [here](#combinationAPI)          |   A desc          |
 | 2 | Radio-Active       |   ✅   | React/JS/󠁐NodeJS/Express/MongoDB |   https://radio-active1337.herokuapp.com/                       |
 | 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                 |
 | 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express/MongoDB |                                                                 |
@@ -16,5 +16,7 @@ As I have been wanting to focus on backend, I have built 7 practical projects, e
 
 🛠️ In Progress
 ✅ Completed
+
+#combinationAPI
 
 
