@@ -6,7 +6,7 @@ As I have been wanting to focus on backend, I have built 7 practical projects, e
 
 | No  | Projects           | Status | Repos                            | Description                                                 |
 | --- | :----------------- | :----- | :------------------------------- | :---------------------------------------------------------- |
-| 1   | combination API    | ✅     | [combinationAPI](https://github.com/joan-gerard/combinationAPI_AWS_Serverless)| A desc         |
+| 1   | combination API    | ✅     | [combinationAPI](https://github.com/joan-gerard/combinationAPI_AWS_Serverless)| In the Lamba, we have business logic to query two different API endpoints (PC game deals API + currency converter API) and combine the data. The final endpoint allows users to find game deals and convert price to their chosen currency.         |
 | 2   | redirect URL       | ✅     | [redirectUrl](https://github.com/joan-gerard/redirectUrl_AWS_Serverless) | a desc |
 | 3   | Reminder App       | ✅     | [reminderApp](https://github.com/joan-gerard/reminderApp_AWS_Serverless)               |    a desc         |
 | 4   | Live Chat          | ✅     | [liveChat](https://github.com/joan-gerard/liveChat_AWS_Serverless) | a desc               |
@@ -17,4 +17,3 @@ As I have been wanting to focus on backend, I have built 7 practical projects, e
 🛠️ In Progress
 ✅ Completed
 
-#combinationAPI
