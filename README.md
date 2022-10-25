@@ -1,6 +1,6 @@
 ### AWS Serverless Project Series
 
-As I have been wanting to focus on backend, I have built 7 practical projects, each building upon the last one.
+As I have been wanting to focus on backend, I have built 7 practical projects, each building upon the skills gained in the last project.
 
 These projects are summarized below:
 
