@@ -13,7 +13,6 @@ These projects are summarized below:
 | Reminder App       | [reminderApp](https://github.com/joan-gerard/reminderApp_AWS_Serverless)               |  The backend that I have built can be used to build an app which enables users to create reminders and to get notified of a reminder either via email or text message when a reminder reaches its expiry date (Time-To-Live) or is deleted.      | API Gateway, DynamoDB, Dynamo Streams, SES, SNS|
 | Live Chat          | [liveChat](https://github.com/joan-gerard/liveChat_AWS_Serverless) | The main objective of this project was to learn how to create an API Gateway Websocket endpoint. The endpoint is then integrated with Lambda functions. I have built that into a messaging platform, where users can create or join an existing room, and then send messages | API Gateway, DynamoDB
 | Idea Voting App    | [ideaVoting](https://github.com/joan-gerard/ideaVoting_AWS_Serverless)                  | For this project, I wanted to apply the concept of ‘single-table design’ to my Dynamo database and introduce two new Amazon products to my projects, namely Cognito and Amplify. | Dynamo DB, Cognito,  Amplify|
-| Messaging App      | 🛠️         |  |
-| E-commerce site    | 🛠️         |                |
+| E-commerce site    | [e-commerce](https://github.com/joan-gerard/ecommerceApp_AWS_Serverless)         | An e-commerce backend with an event-driven architecture using AWS EventBridge (EB)               | DynamoDB, Cognito, SNS, EventBRidge, Secrets
 
 
